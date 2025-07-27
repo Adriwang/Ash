@@ -50,5 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Zig Gitignore
+*.swp
+*.swo
 /.zig-cache
 /zig-out
+.DS_Store
+Thumbs.db
+
+# IDE Gitignore
+.vscode/
+.idea/
