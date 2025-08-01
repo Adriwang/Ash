@@ -8,4 +8,4 @@
 
 ## 3D cross-platform game engine
 
-**Cryo is a Clustered Forward, ECS based, Cross-Platform, Language Interoperable, Performance Oriented, Moddable 3D Engine**
+**Cryo is a Clustered Forward+, ECS based, Cross-Platform, Language Interoperable, Performance Oriented, Moddable 3D Engine**
