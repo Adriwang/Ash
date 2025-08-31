@@ -6,7 +6,7 @@
 <img src="branding/Ash_Title_Border_Fog.png" width="600px" alt="Cryo3D logo" />
 
 ![MIT License](https://img.shields.io/badge/License-Zlib-darkgreen)
-[![Static Badge](https://img.shields.io/badge/v0.14.1%20(stable)-f7a41d?logo=zig&logoColor=f7a41d&label=Zig)](https://ziglang.org/download/)
+[![Static Badge](https://img.shields.io/badge/v0.15.1%20(stable)-f7a41d?logo=zig&logoColor=f7a41d&label=Zig)](https://ziglang.org/download/)
 </div>
 
 ## 3D cross-platform game engine
