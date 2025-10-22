@@ -3,7 +3,7 @@
 <h1 align="center">Ash Engine</h1>
 
 <div align="center">
-<img src="branding/Ash_Title_Border_Fog.png" width="600px" alt="Cryo3D logo" />
+<img src="branding/Ash_Title_Border_Fog.png" width="600px" alt="Ash Engine logo" />
 
 ![MIT License](https://img.shields.io/badge/License-Zlib-darkgreen)
 [![Static Badge](https://img.shields.io/badge/v0.15.1%20(stable)-f7a41d?logo=zig&logoColor=f7a41d&label=Zig)](https://ziglang.org/download/)
